@@ -7,6 +7,22 @@
 
 ---
 
+## ⬇️ 다운로드 (데스크톱 설치파일)
+
+완전 오프라인으로 동작하는 데스크톱 앱입니다. [**최신 릴리스**](https://github.com/KJH9612/md-editor/releases/latest)에서 받으세요.
+
+| OS | 설치파일 |
+|----|----------|
+| **Windows** | `.msi` 또는 `.exe` (설치 후 실행) |
+| **macOS (Apple Silicon)** | `_aarch64.dmg` |
+| **macOS (Intel)** | `_x64.dmg` |
+| **Linux** | `.deb` / `.rpm` / `.AppImage` |
+
+> macOS는 무서명 빌드라 첫 실행 시 **우클릭 → 열기**로 실행하세요.
+> 설치 없이 웹으로 쓰려면 아래 **실행** 참고.
+
+---
+
 ## 기술 스택
 
 | 영역 | 사용 기술 |
