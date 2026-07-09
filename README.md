@@ -1,4 +1,4 @@
-# MD Viewer
+# MD Editor
 
 마크다운 파일을 앱 내부 저장소로 가져와 폴더 트리로 정리하고, 읽기 좋게 렌더링하며,
 직접 편집까지 할 수 있는 **브라우저 기반 마크다운 뷰어/에디터**입니다.
@@ -110,7 +110,7 @@ npm run build    # 정적 익스포트 → out/
 ## 프로젝트 구조
 
 ```
-md-viewer/
+md-editor/
 ├─ next.config.mjs            # output: 'export'
 └─ src/
    ├─ app/                    # layout(테마 스크립트), page(ssr:false), globals.css, icon.svg

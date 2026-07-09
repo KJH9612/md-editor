@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'MD Viewer',
+  title: 'MD Editor',
   description: '마크다운 파일 뷰어',
 };
 

@@ -1,6 +1,6 @@
 import type { Locale } from '@/components/useI18n';
 
-const KO = `# MD Viewer 사용법
+const KO = `# MD Editor 사용법
 
 마크다운 파일을 가져와 폴더로 정리하고, 보고, 편집하는 도구입니다.
 모든 데이터는 이 브라우저 안(내부 저장소)에 저장됩니다.
@@ -42,7 +42,7 @@ $E = mc^2$   (수식)
 \`\`\`
 `;
 
-const EN = `# MD Viewer Guide
+const EN = `# MD Editor Guide
 
 Import, organize, view and edit Markdown files.
 All data is stored inside this browser (local storage).
@@ -84,7 +84,7 @@ $E = mc^2$   (math)
 \`\`\`
 `;
 
-const JA = `# MD Viewer の使い方
+const JA = `# MD Editor の使い方
 
 Markdown ファイルをインポートし、フォルダで整理・閲覧・編集できます。
 すべてのデータはこのブラウザ内（内部ストレージ）に保存されます。

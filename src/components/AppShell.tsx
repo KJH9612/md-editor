@@ -339,7 +339,7 @@ export default function AppShell() {
         <aside className={`sidebar${narrow ? ' overlay' : ''}`} style={{ width }}>
           <div className="sidebar-header">
             <div className="sidebar-title-row">
-              <span className="app-title">MD Viewer</span>
+              <span className="app-title">MD Editor</span>
               <div className="header-buttons">
                 <button
                   className="icon-btn"
